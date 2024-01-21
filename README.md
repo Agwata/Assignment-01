@@ -2,3 +2,4 @@
 Assignment entailed etc
 ## Describe data set
 Formulas to describe data set 
+## Show missing data set
